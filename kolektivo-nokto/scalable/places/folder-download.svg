@@ -37,9 +37,9 @@
      inkscape:window-height="669"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="3.6875"
-     inkscape:cx="17.220339"
-     inkscape:cy="39.864407"
+     inkscape:zoom="10.429825"
+     inkscape:cx="34.372581"
+     inkscape:cy="48.706474"
      inkscape:window-x="20"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
@@ -192,7 +192,51 @@
        x2="61.999977"
        y2="37.733662"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient6"
+       x1="1.9438208"
+       y1="39.612312"
+       x2="61.943798"
+       y2="39.612312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.05638894)" />
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#313752;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#80859c;stop-opacity:1;"
+         offset="0.05619485"
+         id="stop7" />
+      <stop
+         style="stop-color:#313752;stop-opacity:1;"
+         offset="0.12193934"
+         id="stop11" />
+      <stop
+         style="stop-color:#313752;stop-opacity:1;"
+         offset="0.87277573"
+         id="stop8" />
+      <stop
+         style="stop-color:#80859c;stop-opacity:1;"
+         offset="0.95931065"
+         id="stop9" />
+      <stop
+         style="stop-color:#313752;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
   </defs>
+  <path
+     d="m 33.068329,20.208 c -1.106253,0 -2.540791,0.9325 -3.095798,1.861765 C 28.785762,23.27184 27.82091,24.29309 25.67871,24.29309 H 5.2144879 c -2.142849,0 -3.214274,1.021289 -3.214274,3.063847 l -4e-6,26.553284 c 0,3.063851 2.14263,5.106402 5.356569,5.106402 H 56.637223 c 3.213937,0 5.355937,-2.042551 5.356567,-5.106402 l 0.006,-30.638402 c 4e-4,-2.042542 -1.07738,-3.063815 -3.22001,-3.063815 z"
+     style="display:inline;opacity:1;fill:url(#linearGradient6);fill-opacity:1;stroke-width:3.72396;paint-order:markers stroke fill"
+     id="path8-7-2-9-6-4-2"
+     sodipodi:nodetypes="ccccsssssscc"
+     opacity="0.6" />
   <g
      transform="matrix(0.12037189,0,0,0.12034545,21.166521,25.168466)"
      style="fill:#ffffff;fill-opacity:1"
