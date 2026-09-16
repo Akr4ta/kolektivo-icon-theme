@@ -10,6 +10,10 @@ This icon theme combines MoreWaita with the Sweet cursor theme and a modified ve
 
 My work consisted of modifying the Amy-Plasma-Themes theme to align it with Adwaita guidelines and combining all these themes into one.
 
+* **Adwaita** (assuming this theme is installed) and **MoreWaita** for mimetype, apps and symbolic icons,
+* **Amy-Plasma-Theme** (modified) for folders icons,
+* **Sweet** for the cursor icons,
+
 # Install
 Download the .zip file.
 
