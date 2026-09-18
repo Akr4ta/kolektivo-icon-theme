@@ -12,7 +12,7 @@ My work consisted of modifying the Amy-Plasma-Themes theme to align it with Adwa
 
 * **Adwaita** (assuming this theme is installed) and **MoreWaita** for mimetype, apps and symbolic icons,
 * **Amy-Plasma-Theme** (modified) for folders icons,
-* **Sweet** for the cursor icons,
+* **Sweet** for the cursor icons
 
 # Install
 Download the .zip file.
